@@ -246,7 +246,7 @@ To get a deeper understanding of regex expressions used in SQL, here's a handy r
 By following these commands, you can efficiently manage databases and tables using MySQL on a Linux terminal.
 
 ---
-### Example of how to create an efficent ddatabase:
+### Example of how to create an efficent database:
 **Here are the reuirements from which we have to built our model:**
 
 - Every person has a name and an address. A person is uniquely identified by their name
